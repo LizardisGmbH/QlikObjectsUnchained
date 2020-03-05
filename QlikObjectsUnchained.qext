@@ -1,0 +1,20 @@
+{
+  "name": "Unchain QlikSense Objects",
+  "description": "Overlap Qlik Sense Objects by resetting the positions.",
+  "icon": "extension",
+  "type": "visualization",
+  "version": "0.0.1",
+  "preview": "docs/qlik-objects-unchained.png",
+  "author": "Lizardis GmbH",
+  "license": "MIT",
+  "homepage": "https://github.com/LizardisGmbH/QlikObjectsUnchained",
+  "keywords": "qlik-sense, visualization",
+  "repository": "https://github.com/LizardisGmbH/QlikObjectsUnchained",
+  "bundle": {
+    "id": "liz-lib",
+    "name": "Lizardis Extensions"
+  },
+  "dependencies": {
+    "qlik-sense": ">=2.1.1"
+  }
+}
